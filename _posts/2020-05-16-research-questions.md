@@ -38,4 +38,4 @@ It seems to me that we (human beings) don't have an underlying static reward/cos
 During "sleep" phase there should be a consolidation of knowledge in our agent (model) similar to what our brains does when humans sleep.
 
 ***
-*This an eventually lead me to a good statement of purpose.*
+*This can eventually lead me to a good statement of purpose.*
