@@ -2,15 +2,15 @@
 title: "Research questions"
 ---
 
-The objective fot his write-up is to lay out some of the research questions and ideas that I'm most interested me.
+The objective for his write-up is to lay out some of the research questions and ideas that most interestes me.
 
 **Interesting concepts**
 
-1. Probabilistic generative models
-2. Program induction and program synthesis
-3. Self-play (Active learning)
-4. Goals, pland and stories
-5. Sleep-wake cycle in learning
+1. Probabilistic generative models.
+2. Program Induction and Program Synthesis
+3. Self-Play (Active learning)
+4. Goals, Plans and Stories.
+5. Sleep-wake cycle in learning.
 6. Transfer learning – Metaphor and analogy learning
 8. Deep Learning (as a tool)
 
@@ -29,7 +29,7 @@ The process of understanding "how the world works?" can be thought as the proces
 
 ##### 2. Program induction and program synthesis
 
-The process of coming up with a (probabilistic generative) model that explains how the world works is a process similar to that of program induction. We have a bunch of observations and we have to come up with the model that best explains/describes this observations.
+The process of coming up with a (probabilistic generative) model that explains how the world works is a process similar to that of program induction. We have a bunch of observations and we have to come up with the model that best explains/describes these observations.
 
 **Key people:**
 – Armando Solar-Lezama
@@ -39,7 +39,7 @@ The process of coming up with a (probabilistic generative) model that explains h
 
 ##### 3. Self-play (Active learning)
 
-Self-play is an essential component of the process of learning in human beings. This strategy allows the agent to come up with novel strategies unknown to its designer/creator.
+Self-play is an essential component of learning in human beings. This strategy allows the agent to come up with novel strategies unknown to its designer/creator.
 
 **Key people:**
 – OpenAI?
@@ -51,7 +51,7 @@ Elaborate on how this is an instantiation of active learning.
 
 ##### 4. Goals, plan and stories
 
-It seems that we don't have a static reward/cost function. We set goals and build stories that may have an implicit function that guides our learning.
+It seems to me that we (human beings) don't have an underlying static reward/cost function. We set goals and build stories that may have an implicit function that guides our learning/behavior.
 
 **Key people:**
 – ?
@@ -60,7 +60,7 @@ It seems that we don't have a static reward/cost function. We set goals and buil
 
 ##### 5. Sleep-wake cycle in learning
 
-During "sleep" phase there should be a consolidation of knowledge in our agent (model) similar to what our brains do when we sleep.
+During "sleep" phase there should be a consolidation of knowledge in our agent (model) similar to what our brains does when humans sleep.
 
 **Key people:**
 – Kevin Ellis
