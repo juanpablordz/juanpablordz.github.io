@@ -21,51 +21,21 @@ The objective for his write-up is to lay out some of the research questions and 
 
 The process of understanding "how the world works?" can be thought as the process of coming up with a good probabilistic generative model. This model supports simulations and therefore planning.
 
-**Key people:**
-– Josh Tenembaum
-– Pedro Tsividis
-
-
-
 ##### 2. Program induction and program synthesis
 
 The process of coming up with a (probabilistic generative) model that explains how the world works is a process similar to that of program induction. We have a bunch of observations and we have to come up with the model that best explains/describes these observations.
-
-**Key people:**
-– Armando Solar-Lezama
-– Kevin Ellis
-
-
 
 ##### 3. Self-play (Active learning)
 
 Self-play is an essential component of learning in human beings. This strategy allows the agent to come up with novel strategies unknown to its designer/creator.
 
-**Key people:**
-– OpenAI?
-
-**Notes:**
-Elaborate on how this is an instantiation of active learning.
-
-
-
 ##### 4. Goals, plan and stories
 
 It seems to me that we (human beings) don't have an underlying static reward/cost function. We set goals and build stories that may have an implicit function that guides our learning/behavior.
 
-**Key people:**
-– ?
-
-
-
 ##### 5. Sleep-wake cycle in learning
 
 During "sleep" phase there should be a consolidation of knowledge in our agent (model) similar to what our brains does when humans sleep.
-
-**Key people:**
-– Kevin Ellis
-
-
 
 ***
 *This an eventually lead me to a good statement of purpose.*
