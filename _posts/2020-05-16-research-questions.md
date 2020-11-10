@@ -43,7 +43,7 @@ I believe that our human ability to generalize to out-of -sample observations is
 
 ##### 7. Deep Learning
 
-Deep learning has proven to be a principled and scalable way to perform patter recognition. I see deep learning as our core primitive in all the different ideas mentioned above.
+Deep learning has proven to be a principled and scalable way to perform patter recognition. I think of deep learning as our core primitive in ideas mentioned above.
 
 ***
 *This can eventually lead me to a good statement of purpose.*

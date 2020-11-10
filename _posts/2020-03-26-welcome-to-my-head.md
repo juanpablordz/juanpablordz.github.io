@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my head"
+title: "Welcome"
 ---
 
 Welcome dear reader!
