@@ -19,7 +19,7 @@ The objective for his write-up is to lay out some of the research questions and 
 
 ##### 1. Probabilistic generative models
 
-The process of understanding "how the world works?" can be formalized asbulding a good probabilistic generative model of the world. This type of models supports simulations and therefore planning.
+The process of understanding "how the world works?" can be formalized as probabilistic generative model of the world. This type of models supports simulations and therefore planning.
 
 ##### 2. Program induction and program synthesis
 
